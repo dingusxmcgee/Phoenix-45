@@ -3,7 +3,7 @@
 
 
 
-The Phoenix 45 case is a 3D printable case for the Phoenix 45 PCB by KnoblesseOblige and projectcain. 
+The Phoenix 45 case is a 3D printable case for the Phoenix 45 PCB by projectcain, KnoblesseOblige and Dingusxmcgee. 
 
 
 The intention behind this project was to bring the classic JD45 keyboard back to life with updated features like USB-C connection and rotary encoder support! The 3D printable case was created to make the board available to everyone in addition to original JD45 case owners. 
