@@ -16,7 +16,8 @@ It can be built to have zero incline, or 5 degrees with the optional feet instal
 The build requires fifteen M2 self-tapping screws (8mm long), and four 20x2mm bumpons for the feet.
 
 
-PCB Availability is dependent on reaching out to projectcain (order form is here: https://forms.gle/PyBovtnbvavqUKMi8)
+PCBs are available for purchase from P3d at https://p3dstore.com/collections/pcbs/products/phoenix-pcb-only
+
 Cases can be printed or modified with the files located here, or you can order a case from Jake at P3D here: https://p3dstore.com/collections/all-products/products/phoenix45-keyboard-3dp-case
 
 
@@ -24,5 +25,3 @@ Cases can be printed or modified with the files located here, or you can order a
 Credits:
 
 KnoblesseOblige - PCB Design
-
-Myself - Case Design
