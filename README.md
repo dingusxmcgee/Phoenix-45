@@ -25,3 +25,13 @@ Cases can be printed or modified with the files located here, or you can order a
 Credits:
 
 KnoblesseOblige - PCB Design
+
+
+*All files are provided as is and I accept no liability if they aren't very good.*
+
+*These files were made or 3D Print use and are not designed to be milled by a CNC machine. Milling will require changes to these files.*
+
+*Licensed with Unlicense*
+
+
+If you would like to support me in some way, consider [buying me a coffee :)](https://www.buymeacoffee.com/dingusxmcgee)
