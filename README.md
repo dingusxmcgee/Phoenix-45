@@ -29,7 +29,7 @@ KnoblesseOblige - PCB Design
 
 *All files are provided as is and I accept no liability if they aren't very good.*
 
-*These files were made or 3D Print use and are not designed to be milled by a CNC machine. Milling will require changes to these files.*
+*These files were made for 3D Print use and are not designed to be milled by a CNC machine. Milling will require changes to these files.*
 
 *Licensed with Unlicense*
 
